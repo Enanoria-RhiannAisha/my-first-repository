@@ -24,9 +24,10 @@
 - File Management
 
 ## My Favorite Technology
-My favorite technology is a smartphone because it is a all-in-one device, it can handle multitasking, daily organization and constant communication. And they are also portable and easy to carry around, not a difficulty dealing with also.
+My favorite technology is a smartphone because it is an all-in-one device, it can handle multitasking, daily organization and constant communication. And they are also portable and easy to carry around, not a difficulty dealing with also.
 
-
+## Reflection
+Git helps me manage changes to my work by keeping the history of my changes accurately and safely. I can also access it easily with no changes and difficulty also.
 
 
 
